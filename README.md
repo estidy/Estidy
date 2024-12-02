@@ -1,4 +1,27 @@
-## Hi there 👋
+# 🧑‍💻 Juana Ester Diaz Pulido
+
+
+Bienvenida/o a mi perfil de GitHub. Estudiante de informatica Con habilidades técnicas en desarrollo web. Enfocada en la mejora continua y el trabajo en equipo.
+---
+
+## 📋 Sobre mí
+
+- 🌱 Actualmente aprendiendo: **React, Laravel, y Docker**.  
+- 👩‍🏭 Experiencia en proyectos como: **desarrollo de apps, bases de datos, y diseño de interfaces**.  
+- 🌍 Ubicación: La Plata, Argentina.  
+- 🎓 Estudiante de informática - Analista en Sistemas - UNLP.  
+
+---
+
+## 🛠️ Habilidades
+
+- **Gestión**: Organización, Trabajo en equipo, Resolución de problemas, Atención al detalle.
+- **Técnicas**: Microsoft Office avanzado, SQL, Google sheets, Sistemas de gestión de datos.
+- **Desarrollo Web**: PHP, Bootstrap, Laravel, Spring Boot, Java, JavaScript, HTML, Git, CSS/SASS, Vue.js.
+- **Graficas**: Illustrator, Canva, Figma.
+- **Idiomas**: Español (Nativo), Inglés (En progreso). 
+
+---
 
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
