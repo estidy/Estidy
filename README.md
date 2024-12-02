@@ -1,7 +1,7 @@
 # 🧑‍💻 Juana Ester Diaz Pulido
 
 
-Bienvenida/o a mi perfil de GitHub. Estudiante de informatica Con habilidades técnicas en desarrollo web. Enfocada en la mejora continua y el trabajo en equipo.
+Bienvenida/o a mi perfil de GitHub. 
 ---
 
 ## 📋 Sobre mí
@@ -22,7 +22,9 @@ Bienvenida/o a mi perfil de GitHub. Estudiante de informatica Con habilidades t�
 - **Idiomas**: Español (Nativo), Inglés (En progreso). 
 
 ---
+## 🚀 Mis estadísticas
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=estidy&show_icons=true&theme=radical)
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
