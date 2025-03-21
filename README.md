@@ -58,7 +58,7 @@ Bienvenida/o a mi perfil de GitHub.
   <a href="https://www.figma.com/design/XPGTVuhGnwV3d9sdva5ZXc/Cerveza-Go-App?node-id=0-1&t=Yaxiil91skPeqi2u-1">
     <img src="https://img.shields.io/badge/Ver_en_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver en Figma">
   </a>
-   <img src="https://github.com/estidy/ruby_rails/blob/main/SimpleP.png" alt="simpleProducts">
+   <img src="https://github.com/estidy/Estidy/blob/main/Cerveza%20Go%20App.png" alt="Cerveza Go">
 </div>
 
 <!--
