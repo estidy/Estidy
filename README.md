@@ -27,10 +27,11 @@ Bienvenida/o a mi perfil de GitHub.
 React
 
 [Proyecto GuitarLA](http://shopguitar-la.netlify.app/)
-![GuitarLA](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
+![GuitarLA - DEMO](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
+[Repositorio](https://github.com/estidy/calculadora-propinas)
 
 [Calculadora de Propinas - propinApp](propinapp.netlify.app)
-![Proyecto PropinApp](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
+![Proyecto PropinApp - DEMO](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
 
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
