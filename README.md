@@ -45,13 +45,22 @@ Bienvenida/o a mi perfil de GitHub.
    <img src="https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png" alt="PropinApp">
 </div>
 
-#### ruby - backend
+#### Ruby on Rails - Backend
 <div>
-  <a href="[https://github.com/estidy/calculadora-propinas](https://github.com/estidy/ruby_rails)">
+  <a href="https://github.com/estidy/calculadora-propinas](https://github.com/estidy/ruby_rails">
     <img src="https://img.shields.io/badge/Repositorio-GitHub-green?style=for-the-badge&logo=github" alt="Repositorio simpleProducts">
   </a>
    <img src="https://github.com/estidy/ruby_rails/blob/main/SimpleP.png" alt="simpleProducts">
 </div>
+
+#### Figma - UX/UI
+<div>
+  <a href="https://www.figma.com/design/XPGTVuhGnwV3d9sdva5ZXc/Cerveza-Go-App?node-id=0-1&t=Yaxiil91skPeqi2u-1">
+    <img src="https://img.shields.io/badge/Ver_en_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Ver en Figma">
+  </a>
+   <img src="https://github.com/estidy/ruby_rails/blob/main/SimpleP.png" alt="simpleProducts">
+</div>
+
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
