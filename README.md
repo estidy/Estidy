@@ -36,9 +36,12 @@ React
   <a href="propinapp.netlify.app">
     <img src="https://img.shields.io/badge/Proyecto_PropinApp-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto PropinApp DEMO">
   </a>
+  <a href="https://github.com/estidy/calculadora-propinas">
+    <img src="https://img.shields.io/badge/Repositorio-GitHub-green?style=for-the-badge&logo=github" alt="Repositorio GitHub">
+  </a>
+  ![Proyecto PropinApp](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
 </div>
-[Repositorio](https://github.com/estidy/calculadora-propinas)
-![Proyecto PropinApp](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
+
 
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
