@@ -23,7 +23,11 @@ Bienvenida/o a mi perfil de GitHub.
 
 ---
 ## 🚀 Proyectos recientes
-[Link del Proyecto](http://shopguitar-la.netlify.app/)
+[Proyecto GuitarLA](http://shopguitar-la.netlify.app/)
+
+[Calculadora de Propinas - propinApp](propinapp.netlify.app)
+
+![Proyecto PropinApp](PropinApp.png)
 
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
