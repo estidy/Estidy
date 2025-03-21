@@ -25,12 +25,18 @@ Bienvenida/o a mi perfil de GitHub.
 ## 🚀 Proyectos recientes
 
 React
-<a href="http://shopguitar-la.netlify.app/">
-  <img src="https://img.shields.io/badge/Proyecto_GuitarLA-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto GuitarLA DEMO">
-</a>
+<div>
+  <a href="http://shopguitar-la.netlify.app/">
+    <img src="https://img.shields.io/badge/Proyecto_GuitarLA-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto GuitarLA DEMO">
+  </a>
+</div>
 ![GuitarLA](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 
-[Calculadora de Propinas - propinApp - DEMO](propinapp.netlify.app)
+<div>
+  <a href="propinapp.netlify.app">
+    <img src="https://img.shields.io/badge/Proyecto_PropinApp-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto PropinApp DEMO">
+  </a>
+</div>
 [Repositorio](https://github.com/estidy/calculadora-propinas)
 ![Proyecto PropinApp](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
 
