@@ -22,9 +22,9 @@ Bienvenida/o a mi perfil de GitHub.
 - **Idiomas**: Español (Nativo), Inglés (En progreso). 
 
 ---
-## 🚀 Mis estadísticas
+## 🚀 Proyectos recientes
+[Link del Proyecto](http://shopguitar-la.netlify.app/)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=estidy&show_icons=true&theme=radical)
 <!--
 **estidy/Estidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
