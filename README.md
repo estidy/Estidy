@@ -24,6 +24,7 @@ Bienvenida/o a mi perfil de GitHub.
 ---
 ## 🚀 Proyectos recientes
 [Proyecto GuitarLA](http://shopguitar-la.netlify.app/)
+![GuitarLA](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 
 [Calculadora de Propinas - propinApp](propinapp.netlify.app)
 
