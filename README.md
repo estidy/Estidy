@@ -29,12 +29,11 @@ React
   <a href="http://shopguitar-la.netlify.app/">
     <img src="https://img.shields.io/badge/Proyecto_GuitarLA-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto GuitarLA DEMO">
   </a>
-   <a href="https://github.com/estidy/GuitarLA-typescript)">
+   <a href="https://github.com/estidy/GuitarLA-typescript">
     <img src="https://img.shields.io/badge/Repositorio-GitHub-green?style=for-the-badge&logo=github" alt="Repositorio GitHub">
   </a>
-  
+   <img src="https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png" alt="GuitarLA">
 </div>
-![GuitarLA](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 
 <div>
   <a href="propinapp.netlify.app">
@@ -43,7 +42,7 @@ React
   <a href="https://github.com/estidy/calculadora-propinas">
     <img src="https://img.shields.io/badge/Repositorio-GitHub-green?style=for-the-badge&logo=github" alt="Repositorio GitHub">
   </a>
-  ![Proyecto PropinApp](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
+   <img src="https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png" alt="PropinApp">
 </div>
 
 
