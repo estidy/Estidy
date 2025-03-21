@@ -29,6 +29,10 @@ React
   <a href="http://shopguitar-la.netlify.app/">
     <img src="https://img.shields.io/badge/Proyecto_GuitarLA-DEMO-blue?style=for-the-badge&logo=netlify" alt="Proyecto GuitarLA DEMO">
   </a>
+   <a href="https://github.com/estidy/GuitarLA-typescript)">
+    <img src="https://img.shields.io/badge/Repositorio-GitHub-green?style=for-the-badge&logo=github" alt="Repositorio GitHub">
+  </a>
+  
 </div>
 ![GuitarLA](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 
