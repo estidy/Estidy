@@ -27,10 +27,11 @@ Bienvenida/o a mi perfil de GitHub.
 React
 
 [Proyecto GuitarLA](http://shopguitar-la.netlify.app/)
-![GuitarLA - DEMO](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 [Repositorio](https://github.com/estidy/calculadora-propinas)
+![GuitarLA - DEMO](https://github.com/estidy/Guitar-LA---React/blob/main/GuitarLA.png)
 
 [Calculadora de Propinas - propinApp](propinapp.netlify.app)
+[Repositorio](https://github.com/estidy/calculadora-propinas)
 ![Proyecto PropinApp - DEMO](https://github.com/estidy/calculadora-propinas/blob/main/PropinApp.png)
 
 <!--
